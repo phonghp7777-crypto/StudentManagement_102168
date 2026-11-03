@@ -1,0 +1,3 @@
+SV001 - Python - 8.5
+SV002 - Java - 7.5
+SV003 - DevOps - 9.0
